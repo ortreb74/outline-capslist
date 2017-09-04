@@ -1,0 +1,1 @@
+java -cp target/capslist-1.0.0-SNAPSHOT.jar path.Main
